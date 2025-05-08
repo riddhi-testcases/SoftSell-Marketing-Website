@@ -1,6 +1,7 @@
 # SoftSell - Software License Marketplace
 
-A modern, responsive single-page marketing website for SoftSell, a platform that helps businesses sell their unused software licenses.
+A modern, single-page marketing website for **SoftSell**, a fictional software resale startup, a platform that helps businesses sell their unused software licenses. 
+Built using **React.js (Vite)** and styled with **Tailwind CSS**, the site emphasizes clean UI, mobile responsiveness, and intuitive UX.
 
 ## Live Demo
 [View Live Site](https://riddhi-softsell-marketing.netlify.app)
@@ -52,9 +53,9 @@ A modern, responsive single-page marketing website for SoftSell, a platform that
 
 A simple, mock AI-powered chat widget that helps answer common user questions interactively.
 
--  **LLM Simulation** using hardcoded prompts and logic
--  Floating widget with open/close toggle
--  Predefined questions handled:
+**LLM Simulation** using hardcoded prompts and logic
+Floating widget with open/close toggle
+Predefined questions handled:
   - "How do I sell my license?"
   - "What types of licenses do you accept?"
   - "Is it legal?"
